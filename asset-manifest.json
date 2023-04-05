@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Accounting-of-employees/static/css/main.a8a10f8e.css",
+    "main.js": "/Accounting-of-employees/static/js/main.1203ca28.js",
+    "index.html": "/Accounting-of-employees/index.html",
+    "main.a8a10f8e.css.map": "/Accounting-of-employees/static/css/main.a8a10f8e.css.map",
+    "main.1203ca28.js.map": "/Accounting-of-employees/static/js/main.1203ca28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a10f8e.css",
+    "static/js/main.1203ca28.js"
+  ]
+}
