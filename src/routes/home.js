@@ -95,7 +95,7 @@ class Home extends Component {
       const visibleData = this.filterPost(this.searchEmp(data, term), filter);
   
       return (
-        <>
+
         
           <div className="app">
             <AppInfo employees={employees} increased={increased} />
@@ -112,7 +112,7 @@ class Home extends Component {
             <EmployeesAddForm
               onAdd={this.addItem} />
           </div>
-        </>
+        
   
       );
     }
